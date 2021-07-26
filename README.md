@@ -1,5 +1,5 @@
 # python-and-cyber-security-bootcamp-project
-# SHAPEAI WEB DEV BOOTCAMP
+# SHAPEAI PYTHON AND CYBER SECURITY BOOTCAMP
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI </b>.
 
@@ -7,9 +7,9 @@ The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at Jio).
 
 <br>I got to have hands on experience on:
 
-<li>HTML
+<li>PYTHON
 
-<li>CSS
+<li>weather app development through 3rd party provider
 
 <br>during these 7 days, and everything was explained from the very basics so that anyone with zero experience on programming can learn.
 
